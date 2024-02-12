@@ -1,13 +1,5 @@
 <html>
-<head>
-<title>table tag</title>
-<body>
-<table>
-<caption>a table</caption>
-<th>s.no</th>
-<th>subject</th>
-</tr>
-<tr>
+sakka mc
 <td>1</td>
 <td>mathematics</td>
 </tr>
